@@ -42,6 +42,7 @@ public class ArrayElementBAsic {
 		name.add("Divyansh");
 		name.add("Megha");
 		name.add("Aher");
+		name.add("Jadhav");
 		
 		long c = name.stream().filter(s->s.startsWith("A")).count();
 	//	System.out.println(c);
