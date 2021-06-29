@@ -39,8 +39,7 @@ public class ArrayElementBAsic {
 		ArrayList<String> name=new ArrayList<String>();
 		name.add("Amit");
 		name.add("Anshu");
-		name.add("Divyansh");
-		name.add("Megha");
+	
 		name.add("Aher");
 		name.add("Jadhav");
 		
